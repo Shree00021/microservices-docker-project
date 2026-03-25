@@ -34,3 +34,4 @@ This project is a simple microservices-based application built using Docker and 
 - Prathamesh
 - Vaishnavi
 - Arjun
+<img width="1919" height="1199" alt="Screenshot 2026-03-25 210008" src="https://github.com/user-attachments/assets/e87dd339-174d-48f7-82b4-1037f51adf68" />
